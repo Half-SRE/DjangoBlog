@@ -16,6 +16,9 @@
 - 集成`django-compressor`，自动压缩`css`，`js`。
 - 网站异常邮件提醒，若有未捕捉到的异常会自动发送提醒邮件。
 - 集成了微信公众号功能，现在可以使用微信公众号来管理你的vps了。
+
+> 图片上传功能需自己完善
+
 ## 安装
 使用pip安装：  
 `pip install -Ur requirements.txt`
